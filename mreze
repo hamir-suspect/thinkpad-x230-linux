@@ -1,0 +1,2 @@
+cd ~ &&
+echo "mreze(){cd ~ && sudo ./mreze}" >> .bashrc
